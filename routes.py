@@ -66,3 +66,6 @@ def add_habit():
     return render_template(
         "add_habit.html", title="Habit Tracker - Add Habit", selected_date=today
     )
+
+
+
