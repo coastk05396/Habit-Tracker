@@ -1,2 +1,7 @@
 ### dotenv ###
 .env
+.venv
+.vscode
+*.pyc
+__pycache__
+.DS_Store
