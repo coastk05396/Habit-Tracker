@@ -1,5 +1,23 @@
 # Habit-Tracker
+The Habit Tracker app is designed to help you build positive habits and break negative ones. Simply set up your desired habits, it's easy to stay motivated and on track towards your goals.
 
 
-https://user-images.githubusercontent.com/99809489/223390361-d8c27496-8934-4c39-866c-a1dd63b14ba6.mp4
+<div align="center">
+    <img src="/static/img/habittracker.gif" height="500" width="250">
+</div>
 
+### Environment
+
+- Python (flask)
+
+### Database
+
+- MongoDB
+
+### Cloud Services
+
+- Vercel
+
+### Version Control
+
+- Git/GitHub
